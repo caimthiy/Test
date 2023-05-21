@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 imthi is romba kettavan
+=======
+imthi is mental
+>>>>>>> Stashed changes
